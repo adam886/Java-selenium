@@ -1,2 +1,2 @@
 # Java-selenium
-This repository contains the complete java tutorial implementaion
+This repository will contain the complete java tutorial implementaion, implementation ongoing ;)
